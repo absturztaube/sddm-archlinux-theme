@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Archlinux 
+Description=Archlinux Dark Theme
+Author=Julian Wampfler
+Copyright=(c) 2014, Julian Wampfler
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/absturztaube/sddm-archlinux-theme
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=absturztaube@gmail.com
+Theme-Id=archlinux
+Theme-API=2.0
