@@ -5,7 +5,7 @@ SDDM is a Login Manager for Linux which can be themed by qml. This theme is desi
 The Theme is available through AUR: 
 * sddm-archlinux-theme-git
 * https://aur.archlinux.org/packages/sddm-archlinux-theme-git/
-thx bchretien for submitting and maintaining the package
+* thx bchretien for submitting and maintaining the package
 
 Manual Installation
 -------------------
